@@ -1,0 +1,33 @@
+{
+  "name": "back_e_com",
+  "version": "0.0.1",
+  "description": "Back end e-commerce",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carlos-Roberto-da-Silva-Filho/bacck_end_express.git"
+  },
+  "keywords": [
+    "back end",
+    "front end",
+    "Node.js",
+    "React.js"
+  ],
+  "author": "Carlos Roberto da Silva Filho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Carlos-Roberto-da-Silva-Filho/bacck_end_express/issues"
+  },
+  "homepage": "https://github.com/Carlos-Roberto-da-Silva-Filho/bacck_end_express#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "express-rate-limit": "^7.5.0",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
