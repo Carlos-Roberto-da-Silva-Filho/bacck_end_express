@@ -6,13 +6,20 @@ const cors = require('cors')
 const PORT = process.env.PORT
 const hostname = 'localhost'
 
+
+// ------- Rotas ---------------
 const produtosRoutes = require('./src/routes/produtos.routes')
+const authRoutes = require('./src/routes/auth.routes')
+
 
 
 // -------------- config -------------------
 app.use(express.json())
 app.use(cors())
 // -----------------------------------------
+
+// -------------- routes públicas ----------
+app.use('/auth', authRoutes)
 
 // --------------- routes privadas ---------
 app.use('/produtos', produtosRoutes)
