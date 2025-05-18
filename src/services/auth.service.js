@@ -1,6 +1,6 @@
 // src/services/auth.service.js
 const jwt = require('jsonwebtoken')
-const bcrypt = require('bcrypt')
+const bcrypt = require('bcryptjs')
 const { findAnyUserByUsername } = require('../models/users.model')
 
 const JWT_SECRET = process.env.JWT_SECRET
