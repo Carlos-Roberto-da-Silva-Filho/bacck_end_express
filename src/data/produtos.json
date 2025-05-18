@@ -1,63 +1,79 @@
 [
-    {
-      "id": 1,
-      "title": "Calvin Klein CK One",
-      "price": 49.99,
-      "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/thumbnail.webp"
-    },
-    {
-      "id": 2,
-      "title": "Chanel Coco Noir Eau De",
-      "price": 129.99,
-      "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/thumbnail.webp"
-    },
-    {
-      "id": 3,
-      "title": "Dior J'adore",
-      "price": 89.99,
-      "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/thumbnail.webp"
-    },
-    {
-      "id": 4,
-      "title": "Dolce Shine Eau de",
-      "price": 69.99,
-      "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/thumbnail.webp"
-    },
-    {
-      "id": 5,
-      "title": "Gucci Bloom Eau de",
-      "price": 79.99,
-      "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/gucci-bloom-eau-de/thumbnail.webp"
-    },
-    {
-      "id": 6,
-      "title": "Annibale Colombo Bed",
-      "price": 1899.99,
-      "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/thumbnail.webp"
-    },
-    {
-      "id": 7,
-      "title": "Annibale Colombo Sofa",
-      "price": 2499.99,
-      "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/thumbnail.webp"
-    },
-    {
-      "id": 8,
-      "title": "Bedside Table African Cherry",
-      "price": 299.99,
-      "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/thumbnail.webp"
-    },
-    {
-      "id": 9,
-      "title": "Knoll Saarinen Executive Conference Chair",
-      "price": 499.99,
-      "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/thumbnail.webp"
-    },
-    {
-      "id": 10,
-      "title": "Wooden Bathroom Sink With Mirror",
-      "price": 799.99,
-      "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-sink-with-mirror/thumbnail.webp"
-    }
-  ]
-  
+  {
+    "id": 1,
+    "title": "Calvin Klein CK One",
+    "price": 49.99,
+    "stock": 29,
+    "thumbnail": "/img/ck.webp"
+  },
+  {
+    "id": 2,
+    "title": "Chanel Coco Noir Eau De",
+    "price": 129.99,
+    "stock": 58,
+    "thumbnail": "/img/coco_noir.webp"
+  },
+  {
+    "id": 3,
+    "title": "Dior J'adore",
+    "price": 89.99,
+    "stock": 98,
+    "thumbnail": "/img/dior_j_adore.webp"
+  },
+  {
+    "id": 4,
+    "title": "Dolce Shine Eau de",
+    "price": 69.99,
+    "stock": 4,
+    "thumbnail": "/img/dolce_shine.webp"
+  },
+  {
+    "id": 5,
+    "title": "Gucci Bloom Eau de",
+    "price": 79.99,
+    "stock": 91,
+    "thumbnail": "/img/gucci_bloom.webp"
+  },
+  {
+    "id": 6,
+    "title": "Annibale Colombo Bed",
+    "price": 1899.99,
+    "stock": 88,
+    "thumbnail": "/img/annibale_colombo_bed.webp"
+  },
+  {
+    "id": 7,
+    "title": "Annibale Colombo Sofa",
+    "price": 2499.99,
+    "stock": 60,
+    "thumbnail": "/img/annibale_colombo_sofa.webp"
+  },
+  {
+    "id": 8,
+    "title": "Bedside Table African Cherry",
+    "price": 299.99,
+    "stock": 64,
+    "thumbnail": "/img/bedside_table.webp"
+  },
+  {
+    "id": 9,
+    "title": "Knoll Saarinen Executive Conference Chair",
+    "price": 499.99,
+    "stock": 26,
+    "thumbnail": "/img/knoll_chair.webp"
+  },
+  {
+    "id": 10,
+    "title": "Wooden Bathroom Sink With Mirror",
+    "price": 799.99,
+    "stock": 7,
+    "thumbnail": "/img/wooden_bathroom.webp"
+  },
+  {
+    "id": 11,
+    "title": "aaa",
+    "price": "55.55",
+    "stock": "55",
+    "thumbnail": "/img/thumbnail-1747567759052-968449722.webp"
+  }
+]

@@ -10,7 +10,7 @@ const getAllProdutos = async (req, res) => {
         if(err.message === "Produtos não encontrados!"){
             return res.status(404).json({message: err.message})
         }
-        res.status(500).json({message: "Erro: " + err.message});
+        res.status(500).json({message: "Erro: " + err.message})
     }
 }
 
