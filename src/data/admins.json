@@ -3,12 +3,12 @@
         "id": 1,
         "username": "Admin_Sergio",
         "email": "sergio@admin.com",
-        "password": "admin123"
+        "password": "$2b$10$EElueAwy715Fs5EGg1gRHO4szGg2MftdfDjTL2n9UKBNJZgqEgLb2"
     },
     {
         "id": 2,
         "username": "Admin_Maria",
         "email": "maria@admin.com",
-        "password": "admin456"
+        "password": "2b$10$wilA4T2zwez40ZUyFxkhBufqj.frwVHLQDsHaE3tr4qL9WCZ0AJOu"
     }
 ]
